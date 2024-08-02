@@ -6,7 +6,8 @@ const Button = ({ className, href, onClick, children, px, white }) => {
                     items-center 
                     justify-center 
                     h-11 
-                    transition-colors 
+                    transition-colors
+                    text-color-1
                     hover:text-color-5 
                     ${px || "px-7"} 
                     ${white ? "text-n-8" : "text-n-1"}
