@@ -6,8 +6,6 @@ import {
   benefitIcon5,
   benefitIcon6,
   benefitImage2,
-  chromecast,
-  disc02,
   facebook,
   file02,
   homeSmile,
@@ -16,10 +14,7 @@ import {
   notification3,
   notification4,
   plusSquare,
-  recording01,
-  recording03,
   searchMd,
-  sliders04,
   telegram,
   twitter,
   yourlogo,
@@ -65,14 +60,6 @@ export const netgrowthServices2 = [
   "Enhanced Brand Awareness",
   "Targeted Advertising",
   "Multichannel Strategies",
-];
-
-export const brainwaveServicesIcons = [
-  recording03,
-  recording01,
-  disc02,
-  chromecast,
-  sliders04,
 ];
 
 export const benefits = [
