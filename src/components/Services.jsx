@@ -10,7 +10,7 @@ const Services = () => {
         <Heading
           title="Solutions that promote growth."
           text="NetGrowth provides custom solutions to match the clients needs."
-          className="ml-2"
+          className="ml-2 mr-2"
         />
         <div className="relative">
           <div
