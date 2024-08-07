@@ -118,20 +118,20 @@ export const benefits = [
 export const socials = [
   {
     id: "1",
-    title: "TikTok",
+    title: "Twitter",
     iconUrl: twitter,
-    url: "https://tiktok.com/",
+    url: "https://x.com/NetgrowthS",
   },
   {
     id: "2",
-    title: "LinkedIn",
+    title: "TikTok",
     iconUrl: telegram,
-    url: "https://www.linkedin.com/",
+    url: "https://www.tiktok.com/@netgrowth_solutions",
   },
   {
     id: "3",
     title: "Facebook",
     iconUrl: facebook,
-    url: "https://www.facebook.com/",
+    url: "https://www.facebook.com/share/fAeN7e1Jt2HkN8nw/?mibextid=qi2Omg",
   },
 ];
