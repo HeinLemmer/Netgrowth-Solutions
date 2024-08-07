@@ -7,7 +7,7 @@ const Footer = () => {
 
   useEffect(() => {
     // Obfuscate email
-    const user = "NetgrowthSolutions";
+    const user = "NetgrowthITSolutions";
     const domain = "outlook.com";
     setEmail(`${user}@${domain}`);
   }, []);
