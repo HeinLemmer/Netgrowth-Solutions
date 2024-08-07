@@ -25,9 +25,9 @@ const Hero = () => {
             <span className="inline-block relative">NetGrowth Solutions</span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-            Unlock the full potential of your business.
+            Unlock your full potential.
           </p>
-          <Button href="#benefits" white>
+          <Button href="#benefits" className="text-color-3" white>
             Learn More
           </Button>
         </div>
@@ -46,7 +46,7 @@ const Hero = () => {
                   <Notification
                     className="hidden absolute 
                     -left-[5.5rem] bottom-[11rem] w-[15rem] xl:flex"
-                    title="Broaden your reach"
+                    title="Boost your business"
                   />
                 </ScrollParallax>
               </div>

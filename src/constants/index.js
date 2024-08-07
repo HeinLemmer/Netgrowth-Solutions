@@ -9,7 +9,6 @@ import {
   facebook,
   file02,
   homeSmile,
-  instagram,
   notification2,
   notification3,
   notification4,
@@ -125,18 +124,12 @@ export const socials = [
   },
   {
     id: "2",
-    title: "Instagram",
-    iconUrl: instagram,
-    url: "https://www.instagram.com/",
-  },
-  {
-    id: "3",
     title: "LinkedIn",
     iconUrl: telegram,
     url: "https://www.linkedin.com/",
   },
   {
-    id: "4",
+    id: "3",
     title: "Facebook",
     iconUrl: facebook,
     url: "https://www.facebook.com/",
