@@ -17,7 +17,6 @@ import sliders04 from "./sliders-04.svg";
 import loading from "./loading.png";
 import background from "./background.png";
 
-import pPixels from "./hero/pPixels.png";
 import lightBulb from "./hero/globalreachGold.jpg";
 import heroBackground from "./hero/hero-background.jpg";
 
@@ -50,7 +49,7 @@ import benefitIcon3 from "./benefits/icon-3.svg";
 import benefitIcon4 from "./benefits/icon-4.svg";
 import benefitIcon5 from "./benefits/icon-5.svg";
 import benefitIcon6 from "./benefits/icon-6.svg";
-import benefitImage2 from "./benefits/brainBulb.jpg";
+import benefitImage2 from "./benefits/benefitback.jpg";
 
 import discordBlack from "./socials/discord.svg";
 import facebook from "./socials/facebook.svg";
@@ -76,7 +75,6 @@ export {
   sliders04,
   loading,
   background,
-  pPixels,
   lightBulb,
   heroBackground,
   service1,

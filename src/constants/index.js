@@ -76,7 +76,7 @@ export const benefits = [
     text: "Whether you’re a small startup or an established enterprise, our scalable services grow with your business, ensuring continued support and success as you expand.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
-    imageUrl: benefitImage2,
+    imageUrl: "",
     light: true,
   },
   {
@@ -93,7 +93,7 @@ export const benefits = [
     text: "Our social media management services help you connect directly with your audience, building stronger relationships and trust through engaging content and timely interactions.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon5,
-    imageUrl: benefitImage2,
+    imageUrl: "",
     light: true,
   },
   {
@@ -110,7 +110,7 @@ export const benefits = [
     text: "We combine software analytics with social media metrics to deliver deeper insights into customer behavior and campaign performance, driving informed decisions and better results.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon6,
-    imageUrl: benefitImage2,
+    imageUrl: "",
     light: true,
   },
 ];

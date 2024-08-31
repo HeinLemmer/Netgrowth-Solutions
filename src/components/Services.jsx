@@ -59,12 +59,12 @@ const Services = () => {
                 <img
                   src={service1}
                   className="h-full w-full object-cover filter brightness-75 opacity-70"
-                  width={630}
+                  width={650}
                   height={600}
                   alt="service 1"
                 />
               </div>
-              <div className="absolute inset-0 flex-col px-8 py-20 justify-center bg-gradient-to-b from-n-8/0 to-n-8/90 lg:p-15">
+              <div className="absolute inset-0 flex-col px-8 py-20 justify-center bg-gradient-to-b from-black/0 to-black/90 lg:p-15">
                 <h4 className="h4 mb-4">Digital Marketing</h4>
                 <p className="body-2 mb-[3rem]">
                   At NetGrowth Solutions we utilizes innovative strategies and
@@ -85,7 +85,7 @@ const Services = () => {
               </div>
             </div>
             <div className="p-0.5 bg-conic-gradient rounded-3xl overflow-hidden lg:min-h-[46rem]">
-              <div className="p-0 border border-n-6 bg-n-7 rounded-3xl overflow-hidden lg:min-h-[46rem]">
+              <div className="p-0 border border-n-6 bg-black rounded-3xl overflow-hidden lg:min-h-[46rem]">
                 <img
                   src={service3}
                   className="h-full w-full object-cover filter brightness-90 opacity-70 rounded-3xl"

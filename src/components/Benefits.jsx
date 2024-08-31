@@ -28,7 +28,7 @@ const Benefits = () => {
               >
                 <h5 className="h5 mb-5">{item.title}</h5>
                 <p className="body-2 mb-6 text-n-3">{item.text}</p>
-                <div className="flex items-center mt-auto text-n-8">
+                <div className="flex items-center mt-auto text-black">
                   <img
                     src={item.iconUrl}
                     width={50}
@@ -39,7 +39,7 @@ const Benefits = () => {
               </div>
               {item.light && <GradientLight />}
               <div
-                className="absoute inset-0.5 bg-n-8"
+                className="absoute inset-0.5 bg-black"
                 style={{ clipPath: "url(#benefits)" }}
               >
                 <div className="absolute inset-0 opacity-0 transition-opacity hover:opacity-10">

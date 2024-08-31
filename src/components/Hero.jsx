@@ -2,7 +2,6 @@ import Section from "./Section";
 import Button from "./Button";
 import { lightBulb } from "../assets";
 import { BackgroundCircles, Gradient, BottomLine } from "./design/Hero";
-//import { heroIcons } from "../constants";
 import { ScrollParallax } from "react-just-parallax";
 import { useRef } from "react";
 import Notification from "./Notification";
